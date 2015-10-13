@@ -1,43 +1,26 @@
-layout_spectrum: 1
 name: The Associates Photography
+favicon: null
+layout_spectrum: 0.8
+title: Newborn and Portrait Photographers
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+color:
+  brandColors: []
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: awareness
+    item: 6b960958-6c1b-4906-911d-600663948d4c
     url: null
-    item: null
-typography_spectrum: 0.3212766
-color:
-  saturation: 0.893617
-  brandStrength: 0.4829787
-  lightness: 0.7276596
-  brandColors:
-    - '#D6E0E2'
-    - '#664B30'
-    - '#90704B'
-    - '#ADB3B5'
-    - '#30292F'
-  rhythmicContrast: 0.6617022
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
