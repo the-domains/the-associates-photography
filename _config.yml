@@ -1,7 +1,6 @@
 name: The Associates Photography
 favicon: null
-layout_spectrum: 1
-title: Newborn and Portrait Photographers
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
@@ -14,13 +13,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose:
-  - name: awareness
-    item: 6b960958-6c1b-4906-911d-600663948d4c
-    url: null
+purpose: []
